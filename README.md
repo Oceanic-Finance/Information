@@ -11,18 +11,22 @@ Participate in credit vaults backed by trusted borrowers.
 With a user-centric design and a commitment to transparency, Oceanic Finance leverages the Solana blockchain's speed and scalability, ensuring efficient and cost-effective DeFi operations. Our mission is to make decentralized finance accessible and beneficial for everyone.
 
 🛤️ Roadmap
+
 Phase 1: Launch Token
-Launch the Oceanic Finance native token.
+Launch the Oceanic Finance native token on Solana.
 Ensure contract security through third-party audits.
 Distribute tokens via public sales and airdrops.
+
 Phase 2: Marketing & Development
 Launch comprehensive marketing campaigns to raise awareness.
 Develop user-friendly interfaces for staking, lending, and borrowing.
 Collaborate with influencers and community leaders to boost adoption.
+
 Phase 3: Partnerships
 Establish strategic partnerships with other DeFi protocols and blockchain projects.
 Integrate with popular wallets, exchanges, and platforms.
 Expand the network of Pillar Borrowers to increase lending opportunities.
+
 Phase 4: Development Extend
 Introduce advanced features such as automated yield strategies and dynamic credit pools.
 Develop a mobile application for seamless DeFi access.
